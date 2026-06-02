@@ -1,0 +1,16 @@
+"use strict";
+// 20. Check whether a number is an Armstrong number or not.
+console.log(`------------------ Armstrong Number Checker ------------------`);
+let num = 9474, temp = 0, i = num; //variables
+let digits = num.toString().length; //count digits
+while (i > 0) { //while loop
+    temp = temp + (i % 10) ** digits; //store number after calculating armstrong
+    i = Math.floor(i / 10); //assign number after dividing with 10
+}
+if (num == temp) { //condition for Armstrong
+    console.log(`${num} is an Armstrong Number.`); //print if it is Armstrong
+}
+else {
+    console.log(`${num} is not an Armstrong Number.`); //print if it is not Armstrong
+}
+console.log(`--------------------------------------------------------------`);
