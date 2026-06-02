@@ -59,11 +59,8 @@
 <h3>Output : </h3>
 
 ![Program-6 Output](https://github.com/sakinasendhi52/Looping-Programs/blob/main/output/program-6-output-1.png?raw=true)
-
 ![Program-6 Output](https://github.com/sakinasendhi52/Looping-Programs/blob/main/output/program-6-output-2.png?raw=true)
-
 ![Program-6 Output](https://github.com/sakinasendhi52/Looping-Programs/blob/main/output/program-6-output-3.png?raw=true)
-
 ![Program-6 Output](https://github.com/sakinasendhi52/Looping-Programs/blob/main/output/program-6-output-4.png?raw=true)
 
 <h3>Program-7</h3>
