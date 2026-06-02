@@ -132,11 +132,8 @@
 <h3>Output : </h3>
 
 ![Program-13 Output](https://github.com/sakinasendhi52/Looping-Programs/blob/main/output/program-13-output-1.png?raw=true)
-
 ![Program-13 Output](https://github.com/sakinasendhi52/Looping-Programs/blob/main/output/program-13-output-2.png?raw=true)
-
 ![Program-13 Output](https://github.com/sakinasendhi52/Looping-Programs/blob/main/output/program-13-output-3.png?raw=true)
-
 ![Program-13 Output](https://github.com/sakinasendhi52/Looping-Programs/blob/main/output/program-13-output-4.png?raw=true)
 
 <h3>Program-14</h3>
