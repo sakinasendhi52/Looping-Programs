@@ -2,7 +2,7 @@
 
 console.log(`------------------ Armstrong Number Checker ------------------`);
 
-let num:number=9474, temp:number=0, i:number=num;     //variables
+let num:number=153, temp:number=0, i:number=num;     //variables
 let digits:number = num.toString().length;           //count digits
 
 while(i>0){                                         //while loop
